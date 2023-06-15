@@ -1,4 +1,11 @@
 {
+  "name": "BackEnd - ReciclandoEducação",
+  "version": "1.0.0",
+  "description": "Backend Reciclando-Educação",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "@prisma/client": "^4.15.0",
     "body-parser": "^1.20.2",
