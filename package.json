@@ -1,7 +1,7 @@
 {
-  "name": "BackEnd - ReciclandoEducação",
+  "name": "backendreciclandoeducacao",
   "version": "1.0.0",
-  "description": "Backend Reciclando-Educação",
+  "description": "Backend-Reciclando-Educacao",
   "main": "app.js",
   "scripts": {
     "start": "prisma generate && node app.js"
