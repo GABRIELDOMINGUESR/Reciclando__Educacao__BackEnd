@@ -4,7 +4,7 @@
   "description": "Backend Reciclando-Educação",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "prisma generate && node app.js"
   },
   "dependencies": {
     "@prisma/client": "^4.15.0",
